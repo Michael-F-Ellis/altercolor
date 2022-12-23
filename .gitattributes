@@ -1,0 +1,6 @@
+LICENSE export-ignore
+README.md export-ignore
+.git* export-ignore
+blackmodes.png export-ignore
+colormodes.png export-ignore
+colors.png export-ignore
